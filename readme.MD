@@ -46,7 +46,7 @@ eda/
 ### 1.Clone the repository
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/interactive-eda-dashboard.git
+git clone https://github.com/KaranJangid8656/Exploratory-data-analysis
 cd interactive-eda-dashboard
 
 ### 2.Install dependencies
