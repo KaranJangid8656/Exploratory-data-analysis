@@ -3,7 +3,7 @@
 An interactive and modern dashboard built using Streamlit that simplifies Exploratory Data Analysis (EDA). Users can upload .csv or .xlsx datasets and instantly explore their data through visual insights — all without writing a single line of code.
 
 ```
-## Project Structure
+<h3> Project Structure </h3>
 eda/
  ├── .gitignore
  ├── app.py
@@ -14,7 +14,7 @@ eda/
  └── datasets/
 
 
-## 🛠 Tech Stack
+ <h3> 🛠 Tech Stack  </h3>
 
 | Tool          | Purpose                        |
 |---------------|------------------------------- |
