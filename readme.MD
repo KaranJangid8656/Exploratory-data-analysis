@@ -40,6 +40,29 @@ eda/
 
 🌓 Beautiful dark-themed UI with sidebar navigation
 
+```
+
+## 📦Installation and Usage
+### 1.Clone the repository
+Clone the repository to your local machine using the following command:
+
+git clone https://github.com/your-username/interactive-eda-dashboard.git
+cd interactive-eda-dashboard
+
+### 2.Install dependencies
+Install the required Python packages listed in requirements.txt:
+pip install -r requirements.txt
+
+### 3.Run the Streamlit app
+Start the Streamlit app by running the following command:
+streamlit run app.py
+
+
+
+
+
+
+
 
 ## License
 This project is licensed under the MIT License.
