@@ -1,4 +1,4 @@
-📊 Interactive EDA Dashboard
+##Interactive EDA Dashboard
 An interactive and modern dashboard built using Streamlit that simplifies Exploratory Data Analysis (EDA). Users can upload .csv or .xlsx datasets and instantly explore their data through visual insights — all without writing a single line of code.
 
 📖 What is EDA?
