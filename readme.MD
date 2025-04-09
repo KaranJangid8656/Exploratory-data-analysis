@@ -1,25 +1,37 @@
-Interactive EDA Dashboard
+📊 Interactive EDA Dashboard
+An interactive and modern dashboard built using Streamlit that simplifies Exploratory Data Analysis (EDA). Users can upload .csv or .xlsx datasets and instantly explore their data through visual insights — all without writing a single line of code.
 
-An interactive, visually rich Exploratory Data Analysis (EDA) dashboard built with Streamlit. Upload .csv or .xlsx datasets and instantly explore your data through automatic summaries, distribution plots, and correlation heatmaps — all presented in a modern dark-themed UI.
+📖 What is EDA?
+Exploratory Data Analysis (EDA) is the process of examining a dataset to understand its structure, detect patterns, identify missing values, and uncover relationships between variables. It combines statistical techniques and visualizations to help analysts draw meaningful insights before moving to complex modeling or machine learning.
 
-#Features
+EDA is a foundational step in any data science or analytics project. It helps to:
 
-📁 Upload .csv or .xlsx datasets
+Understand data distributions and outliers
 
-📊 Dataset overview: row/column count, missing values
+Detect missing or incorrect values
 
-🗾 Column data types & memory usage display
+Reveal correlations and trends
 
-📈 Summary statistics: mean, median, std deviation, etc.
+Make data-driven decisions with confidence
 
-📉 Distribution plots: histograms, box plots
+🛠 Tech Stack
+Tool	Purpose
+Streamlit	Build the interactive web dashboard
+Pandas	Load, clean, and manipulate data
+Matplotlib	Plot charts and graphs (with pyplot)
+Seaborn	Create statistical and aesthetic visualizations
 
-🔥 Correlation heatmap & scatter plot matrix
 
-🌐 Missing values heatmap
 
-🌑 Sleek dark mode theme with customized UI
+ Features
+📁 Upload .csv or .xlsx files
 
-🧠 Sidebar navigation to switch between analysis views
+📋 View dataset structure and summary statistics
 
-📄 Export selected visuals or summary reports (coming soon)
+📈 Visualize data with histograms, box plots, and scatter plots
+
+🔥 Correlation heatmaps and pair plots
+
+🌐 Missing value heatmaps
+
+🌓 Beautiful dark-themed UI with sidebar navigation
