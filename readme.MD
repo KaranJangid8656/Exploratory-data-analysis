@@ -26,7 +26,7 @@ eda/
 
 
 
-## Features
+Features
 📁 Upload .csv or .xlsx files
 
 📋 View dataset structure and summary statistics
@@ -41,18 +41,19 @@ eda/
 
 ```
 
-## 📦Installation and Usage
-### 1.Clone the repository
+📦Installation and Usage
+
+1.Clone the repository
 Clone the repository to your local machine using the following command:
 
 git clone https://github.com/KaranJangid8656/Exploratory-data-analysis
 cd interactive-eda-dashboard
 
-### 2.Install dependencies
+2.Install dependencies
 Install the required Python packages listed in requirements.txt:
 pip install -r requirements.txt
 
-### 3.Run the Streamlit app
+3.Run the Streamlit app
 Start the Streamlit app by running the following command:
 streamlit run app.py
 
