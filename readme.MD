@@ -2,15 +2,16 @@
 
 An interactive and modern dashboard built using Streamlit that simplifies Exploratory Data Analysis (EDA). Users can upload .csv or .xlsx datasets and instantly explore their data through visual insights — all without writing a single line of code.
 
+```
 ## Project Structure
 eda/
-├── .gitignore
-├── app.py
-├── LICENSE
-├── readme.MD
-├── requirements.txt
-├── utils.py
-└── datasets/
+ ├── .gitignore
+ ├── app.py
+ ├── LICENSE
+ ├── readme.MD
+ ├── requirements.txt
+ ├── utils.py
+ └── datasets/
 
 
 ## 🛠 Tech Stack
