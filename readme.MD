@@ -5,7 +5,7 @@ An interactive and modern dashboard built using Streamlit that simplifies Explor
 ```
 Project Structure 
 eda/
- ├── .gitignore
+ ├── .gitignore 
  ├── app.py
  ├── LICENSE
  ├── readme.MD
