@@ -268,7 +268,7 @@ import streamlit as st
 from utils.ai_summary import get_ai_summary_openrouter
 
 # 🔐 Your OpenRouter credentials (replace with your actual values)
-API_KEY = "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"
+API_KEY = "your_api_key"
 REFERER = "https://openrouter.ai/api/v1"
 TITLE = "Interactive EDA Dashboard"
 
